@@ -6,7 +6,6 @@ A two-player Tic-Tac-Toe Game with GUI, Java Socket Programming, and Multi-Threa
 - When the game starts, players need to input their player’s name first (i.e.,the player cannot make any move if he/she does not enter his/her player’s name)
 
 ## How to execute the game?
-### For HKU Staff and Students
 1. Make sure all the files are compiled and runnable
 2. Run MainServer.class to run the server
 ```bash
